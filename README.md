@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on more things than `git` can keep track of
 - 🌱 I’m not learning too much right now, just dipping my toes into stuff here and there
 - 📜 I've been homeschooled my whole life
+- 💻 I dont push projects to github very often
 
 <div align="center">
   <a href="https://replit.com/@RandomLegoBrick">
