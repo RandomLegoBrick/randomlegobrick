@@ -3,9 +3,9 @@
 <p> I'm Matthew, a Catholic teenager with a passion for engineering and technology, especially software. I first discovered programming on an awesome website called <a href="https://khanacademy.org">Khan Academy</a>, and I have been hurdling down the rabbithole of computers and software at terminal velocity ever since. </p>
 
 - 🔭 I’m currently working on more things than `git` can keep track of
-- 🌱 I’m not learning too much right now, just dipping my toes into stuff here and there
+- 🌱 I’m not learning too much right now, just dipping my toes into stuff here and there. Started learning chess recently.
 - 📜 I've been homeschooled my whole life
-- 💻 I dont push projects to github very often
+- 🧑‍💻 I dont push projects to github very often but I hope to start moving all my projects here
 
 <div align="center">
   <a href="https://replit.com/@RandomLegoBrick">
